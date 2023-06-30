@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/siphenathi-mkhosi-updated-portfolio/static/css/main.97a64f45.css",
+    "main.js": "/siphenathi-mkhosi-updated-portfolio/static/js/main.2447b1dd.js",
+    "static/js/787.e8fa7ef4.chunk.js": "/siphenathi-mkhosi-updated-portfolio/static/js/787.e8fa7ef4.chunk.js",
+    "static/media/apples.png": "/siphenathi-mkhosi-updated-portfolio/static/media/apples.df16b876d6ee5e637c51.png",
+    "static/media/webpage.png": "/siphenathi-mkhosi-updated-portfolio/static/media/webpage.9c9726bdf2a503d76139.png",
+    "static/media/bgpic_2.jpg": "/siphenathi-mkhosi-updated-portfolio/static/media/bgpic_2.c2b41cc86cbf3ad33017.jpg",
+    "static/media/robots.png": "/siphenathi-mkhosi-updated-portfolio/static/media/robots.52f95f6311f7a21b5fdf.png",
+    "static/media/phone_bill.png": "/siphenathi-mkhosi-updated-portfolio/static/media/phone_bill.d2b6dbf5f2616c4d460b.png",
+    "static/media/taxi.png": "/siphenathi-mkhosi-updated-portfolio/static/media/taxi.16ffbe84373e617d4787.png",
+    "static/media/MusicPlayer.jpg": "/siphenathi-mkhosi-updated-portfolio/static/media/MusicPlayer.2db87b2761a62fd99c8b.jpg",
+    "static/media/votingFingerprintSystem.jpg": "/siphenathi-mkhosi-updated-portfolio/static/media/votingFingerprintSystem.afff8b7913713921b439.jpg",
+    "static/media/cinema.jpg": "/siphenathi-mkhosi-updated-portfolio/static/media/cinema.ab406ae801ba09dbb433.jpg",
+    "static/media/dog.png": "/siphenathi-mkhosi-updated-portfolio/static/media/dog.e39e0b8eba8e59b163d6.png",
+    "static/media/gbv.png": "/siphenathi-mkhosi-updated-portfolio/static/media/gbv.774b672b703c9afc19de.png",
+    "static/media/Siphe.jpeg": "/siphenathi-mkhosi-updated-portfolio/static/media/Siphe.e6da2174d733780f24ed.jpeg",
+    "static/media/backendGreet.png": "/siphenathi-mkhosi-updated-portfolio/static/media/backendGreet.4d3307a16508a58cf850.png",
+    "static/media/instagram.png": "/siphenathi-mkhosi-updated-portfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/calculator.png": "/siphenathi-mkhosi-updated-portfolio/static/media/calculator.5a2b53d7995e6e92ad10.png",
+    "static/media/greet.png": "/siphenathi-mkhosi-updated-portfolio/static/media/greet.297e6fae3e9dec1ac1e5.png",
+    "static/media/whatsapp.png": "/siphenathi-mkhosi-updated-portfolio/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/operator.png": "/siphenathi-mkhosi-updated-portfolio/static/media/operator.78ed82a8fd73f29be8e7.png",
+    "static/media/facebook.png": "/siphenathi-mkhosi-updated-portfolio/static/media/facebook.01a470d813915c298403.png",
+    "static/media/revicons.eot": "/siphenathi-mkhosi-updated-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/siphenathi-mkhosi-updated-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/linkedin.png": "/siphenathi-mkhosi-updated-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/revicons.woff": "/siphenathi-mkhosi-updated-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/siphenathi-mkhosi-updated-portfolio/index.html",
+    "main.97a64f45.css.map": "/siphenathi-mkhosi-updated-portfolio/static/css/main.97a64f45.css.map",
+    "main.2447b1dd.js.map": "/siphenathi-mkhosi-updated-portfolio/static/js/main.2447b1dd.js.map",
+    "787.e8fa7ef4.chunk.js.map": "/siphenathi-mkhosi-updated-portfolio/static/js/787.e8fa7ef4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a64f45.css",
+    "static/js/main.2447b1dd.js"
+  ]
+}
