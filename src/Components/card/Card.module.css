@@ -1,0 +1,124 @@
+@keyframes cardAnimationHover {
+    0% {opacity: 0;}
+    25% {opacity: .25;}
+    50% {opacity: .5;}
+    75% {opacity: .75;}
+    100% {opacity: 1;}
+}
+
+@keyframes cardAnimationHoverExit {
+    0% {opacity: 1;}
+    25% {opacity: .75;}
+    50% {opacity: .5;}
+    75% {opacity: .25;}
+    100% {opacity: 0;}
+}
+
+.card {
+    width: 100%;
+    height: fit-content;
+    margin-inline: auto;
+    display: grid;
+    gap: 0.1rem;
+    justify-content: center;
+    grid-template-columns: auto auto;
+    box-shadow: 1px 1px 3px grey;
+    position: relative;
+    width: 32rem;
+    height: 20rem;
+
+    overflow: hidden;
+  }
+  .card > img {
+
+  }
+  .projectName {
+    width: auto;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 2px 2px 8px rgba(0, 0, 255, 0.8);
+    margin: 5px;
+    margin-bottom: 1rem;
+  }
+  .typeOfProject {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .moreAboutProject {
+    font-size: 1rem;
+    margin: 5px;
+    margin-top: 1rem;
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+
+  .innerContainer{
+    
+    text-align: start;
+    padding-inline:10px ;
+    color:white;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px);
+    font-weight: 400;
+    opacity: 0;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: .5rem;
+    padding-bottom:1rem;
+
+  }
+  .innerContainer:hover{
+    animation-name: cardAnimationHover;
+    animation-duration: .5s;
+    opacity: 1;
+}
+
+
+.innerContainer:not( :hover ){ 
+    animation-name: cardAnimationHoverExit;
+    animation-duration: .5s;
+    opacity: 0;
+ }
+  #image{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  .myButton1 > a {
+    width: fit-content;
+    background-color: black;
+    border: 4px solid black;
+   
+    padding-block:.3rem ;
+    padding-inline: .5rem;
+    height: 2rem;
+    font-size: 0.8rem;
+    color: white;
+    font-family: Lobster;
+    margin-top: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    outline: none;
+  }
+
+ 
+  .myButton1 > button:hover {
+    background-color: white;
+    color: black;
+
+  }
+  
+  .myButton > button:hover {
+    background-color: white;
+    color: black;
+  }
+

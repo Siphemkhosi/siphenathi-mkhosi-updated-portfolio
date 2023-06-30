@@ -1,0 +1,11 @@
+:root {
+  --app-background-color: white;
+  --app-color:#050A30;
+  --app-inner-width: 80%;
+}
+
+.App {
+  background-color: var(--app-background-color);
+  max-width: 1400px;
+  margin-inline: auto;
+}
