@@ -36,7 +36,6 @@ const Footer = () => {
                 className={classes.socialMediaIcon}
               />
             </a>
-
             <div className={classes.divider}></div>
             <a
               href="https://www.linkedin.com/in/siphenathi-mkhosi-a46450215/"

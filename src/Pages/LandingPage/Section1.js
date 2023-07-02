@@ -11,7 +11,7 @@ export default class Section1 extends Component {
           <div className={classes.backgroundContainer}>
             <img
               src={backgroundImage}
-              alt="MAFA MAKETELA"
+              alt="SIPHENATHI MKHOSI"
               className={classes.myBackgroundImage}
               style={{
                 opacity:.8

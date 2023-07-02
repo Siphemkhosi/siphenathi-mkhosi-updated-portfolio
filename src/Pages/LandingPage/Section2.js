@@ -7,14 +7,14 @@ export default class Section2 extends Component {
       <>
         <div className={classes.Section2}>
           <div className={classes.flexContainerSection2}>
-            <div className={classes.mafaPic}>
+            <div className={classes.siphenathiPic}>
               <img src={Siphenathi} alt="Siphenathi Mkhosi" />
             </div>
-            <div className={classes.aboutMafa}>
+            <div className={classes.aboutsiphenathi}>
               <div className={classes.aboutHeadingText}>About</div>
               <div className={classes.divider}></div>
-              <div className={classes.infoAboutMafa}>
-                <div className={classes.infoAboutMafa1}>
+              <div className={classes.infoAboutsiphenathi}>
+                <div className={classes.infoAboutsiphenathi1}>
                   My name is Siphenathi Mkhosi, as of 2022 I am doing my final year
                   in computer science.
                   <br />

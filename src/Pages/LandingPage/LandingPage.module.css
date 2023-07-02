@@ -217,16 +217,16 @@
   display: flex;
   justify-content: center;
 }
-.mafaPic {
+.siphenathiPic {
   width: 40%;
 }
-.mafaPic > img {
+.siphenathiPic > img {
   width: 100%;
   max-height: 29rem;
   border-radius: 3px;
 }
 
-.aboutMafa {
+.aboutsiphenathi {
   width: 60%;
 }
 .aboutHeadingText {
@@ -245,7 +245,7 @@
   font-size: 1.1rem;
   font-weight: bold;
 }
-.infoAboutMafa {
+.infoAboutsiphenathi {
   margin-block: 1rem;
   padding-inline: 1rem;
   color: var(--app-seondary-color);
@@ -256,7 +256,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.infoAboutMafa1 {
+.infoAboutsiphenathi1 {
   width: fit-content;
   height: fit-content;
   color: grey;
@@ -311,13 +311,22 @@
   /* border: 1px solid rgba(5, 10, 48, 1); */
   box-shadow: 1px 1px 5px var(--app-color);
 }
+
+.carousel{
+  padding-block: 1rem;
+  justify-content: center !important;
+}
+.carousel>*{
+  margin-inline: auto;
+}
+
 .cardContainer {
-  margin-block: 1rem;
+ 
   display:grid;
   grid-auto-flow: column;
   height: fit-content;
   gap: 1rem;
-  padding: 0.3rem;
+  padding: 1rem;
   margin-inline: auto;
   width: fit-content;
   box-sizing: border-box;
