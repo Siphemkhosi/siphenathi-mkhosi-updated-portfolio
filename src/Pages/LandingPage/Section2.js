@@ -13,32 +13,32 @@ export default class Section2 extends Component {
             <div className={classes.aboutsiphenathi}>
               <div className={classes.aboutHeadingText}>About</div>
               <div className={classes.divider}></div>
+
+              <div className={classes.innerContainer}>
+
               <div className={classes.infoAboutsiphenathi}>
                 <div className={classes.infoAboutsiphenathi1}>
-                  My name is Siphenathi Mkhosi, as of 2022 I am doing my final year
-                  in computer science.
+                  My name is Siphenathi Mkhosi, as of 2023 I am doing my final year
+                  in Chemical Science.
                   <br />
                   <br />
-                  In order to kick-start my career before I graduate, I am
-                  looking for a job or internship of a android or web developer,
-                  since that is what I have been doing already for a year in my
-                  free time.
+                  I am also a self learning web developer who constantly use every opportunity I get to upSkill in development. I have been focused on improving my skill through coding bootcsmps, online courses and doing various apps and websites to test my skill and implement all I have learnt , I am
+                  looking for a job,learnership or internship of a web developer in order to get an opportunity to test and showcase my skills in the industry.
                   <br />
                   <br />
-                  Designing and developing simple android apps and websites,
-                  with the help of some open source content-management systems,
-                  and so on. Besides that I am a normal guy who enjoys hiking
-                  and spending time with friends, while not working or studying,
-                  which takes most of my time of course. If I should pick the
-                  best website I have designed up to this point, it will be this
-                  one open, and incase of android application, they are
-                  displayed in portfolio section. I am ambitious and
-                  hard-working and believe you will give me a chance to prove my
-                  words.
+                 
+                When I am not focusing on my studies you will find me designing simple apps and websites. I am also very athletic and play various sports such as rugby, soccer and tennis.
+
+         If I should pick the
+                  best website I have designed up to this point, it will be the Apple pockets app. I am
+                  hard-working and believe you will give me a chance to showcase and improve my
+                  skills.
                 </div>
               </div>
               <div className={classes.myButton}>
                 <button>Learn more</button>
+              </div>
+
               </div>
             </div>
           </div>

@@ -245,6 +245,11 @@
   font-size: 1.1rem;
   font-weight: bold;
 }
+.innerContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .infoAboutsiphenathi {
   margin-block: 1rem;
   padding-inline: 1rem;
@@ -267,7 +272,7 @@
   width: fit-content;
   height: fit-content;
   margin-left: 5px;
-  margin-top: 1rem;
+  margin-block: auto;
 }
 .myButton > button {
   width: 9rem;
